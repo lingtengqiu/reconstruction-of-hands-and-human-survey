@@ -3,6 +3,9 @@
 
 # Hand and Human
 
+## NIPS2020 
+- [Detecting Hands and Recognizing Physical Contact in the Wild ](https://proceedings.neurips.cc//paper/2020/file/595373f017b659cb7743291e920a8857-Paper.pdf) [code](https://github.com/cvlab-stonybrook/ContactHands)
+
 ## ECCV2020
 - Coherent Reconstruction of Multiple Humans from a Single Image\[[Paper](https://arxiv.org/pdf/2006.08586.pdf) [Code](https://github.com/JiangWenPL/multiperson)\]   注意这篇工作的main contribution 我认为是，interpenetration loss，用于解插入问题，另外一个是depth loss，来解决估计的mesh的深度错误
 - InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image\[[Paper](https://arxiv.org/abs/2008.09309) [Code](https://github.com/facebookresearch/InterHand2.6M)\]
