@@ -11,6 +11,11 @@
 - JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image\[[Paper](https://arxiv.org/abs/2007.04646) [Code](https://github.com/fanglinpu/JGR-P2O)\] **未读**
 ### without Code
 - [Adaptive Computationally Efficient Network forMonocular 3D Hand Pose Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123490120.pdf)
+- [SeqHAND: RGB-Sequence-Based3D Hand Pose and Shape Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570120.pdf)
+- [Weakly Supervised 3D Hand Pose Estimation via Biomechanical Constraints](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123620205.pdf)
+- [Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700018.pdf)
+- [Dual Grid Net: Hand Mesh VertexRegression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
+
 
 ## ICCV2019
 - End-to-end Hand Mesh Recovery from a Monocular RGB Image\[[Paper](https://arxiv.org/abs/1902.09305) [Code](https://github.com/MandyMo/HAMR)\]
