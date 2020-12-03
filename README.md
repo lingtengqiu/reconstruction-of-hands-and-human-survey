@@ -4,6 +4,6 @@
 # Hand and Human
 
 # ECCV2020
-- Coherent Reconstruction of Multiple Humans from a Single Image\[ [Paper](https://arxiv.org/pdf/2006.08586.pdf) [Code](https://github.com/JiangWenPL/multiperson) \]
+- Coherent Reconstruction of Multiple Humans from a Single Image\[[Paper](https://arxiv.org/pdf/2006.08586.pdf) [Code](https://github.com/JiangWenPL/multiperson)\]
 
 
