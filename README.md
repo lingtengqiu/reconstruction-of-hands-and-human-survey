@@ -23,8 +23,19 @@
 ## CVPR2020
 - HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf)  [Code](https://github.com/bardiadoosti/HOPE)\]
 
+- Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf
+) [Code](https://arielai.com/mesh_hands)\]
+
+- Monocular Real-Time Hand Shape and Motion Capture Using Multi-Modal Data\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhou_Monocular_Real-Time_Hand_Shape_and_Motion_Capture_Using_Multi-Modal_Data_CVPR_2020_paper.pdf
+) [Code](https://github.com/CalciferZh/minimal-hand)\]
+
+
 ### without code
 - HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation From a Single Depth Map\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Malik_HandVoxNet_Deep_Voxel-Based_Network_for_3D_Hand_Shape_and_Pose_CVPR_2020_paper.pdf)\]
+
+
+
+
 
 
 
