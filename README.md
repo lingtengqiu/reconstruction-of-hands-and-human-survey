@@ -8,6 +8,7 @@
 - InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image\[[Paper](https://arxiv.org/abs/2008.09309) [Code](https://github.com/facebookresearch/InterHand2.6M)\]
 - I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image\[[Paper](https://arxiv.org/abs/2008.03713) [Code](https://github.com/mks0601/I2L-MeshNet_RELEASE)\] 非常有意思的一篇，用lixel 来优化 3d heatmap中的memory 和complexity 爆炸问题
 - DeepHandMesh: A Weakly-supervised Deep Encoder-Decoder Framework for High-fidelity Hand Mesh Modeling\[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58536-5_26) [Code](https://mks0601.github.io/DeepHandMesh/)\]
+- JGR-P2O: Joint Graph Reasoning based Pixel-to-Offset Prediction Network for 3D Hand Pose Estimation from a Single Depth Image\[[Paper](https://arxiv.org/abs/2007.04646) [Code](https://github.com/fanglinpu/JGR-P2O)\]
 
 # ICCV2019
 - End-to-end Hand Mesh Recovery from a Monocular RGB Image\[[Paper](https://arxiv.org/abs/1902.09305) [Code](https://github.com/MandyMo/HAMR)\]
