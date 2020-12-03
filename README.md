@@ -20,6 +20,14 @@
 - [Dual Grid Net: Hand Mesh VertexRegression from Single Depth Maps](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123750443.pdf)
 
 
+## CVPR2020
+- HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf)  [Code](https://github.com/bardiadoosti/HOPE)\]
+
+### without code
+- HandVoxNet: Deep Voxel-Based Network for 3D Hand Shape and Pose Estimation From a Single Depth Map\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Malik_HandVoxNet_Deep_Voxel-Based_Network_for_3D_Hand_Shape_and_Pose_CVPR_2020_paper.pdf)\]
+
+
+
 ## ICCV2019
 - End-to-end Hand Mesh Recovery from a Monocular RGB Image\[[Paper](https://arxiv.org/abs/1902.09305) [Code](https://github.com/MandyMo/HAMR)\]
 - Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks\[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cai_Exploiting_Spatial-Temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_ICCV_2019_paper.pdf) [Code](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)\] 这篇工作其实就是借鉴了st-gcn的思路将时序估计问题转化到了3d pose 估计上
