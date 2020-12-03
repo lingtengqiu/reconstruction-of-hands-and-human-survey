@@ -8,6 +8,6 @@
 
 
 # ICCV2019
--  End-to-end Hand Mesh Recovery from a Monocular RGB Image\[[Paper](https://arxiv.org/pdf/2006.08586.pdf) [Code](https://github.com/JiangWenPL/multiperson)\]
+-  End-to-end Hand Mesh Recovery from a Monocular RGB Image\[[Paper](https://arxiv.org/abs/1902.09305) [Code](https://github.com/MandyMo/HAMR)\]
 
 
