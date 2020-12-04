@@ -47,7 +47,7 @@
 # Representation
 
 ## ECCV2020
-Curriculum DeepSDF\[[Paper](https://arxiv.org/abs/2003.08593)\]
+- Curriculum DeepSDF\[[Paper](https://arxiv.org/abs/2003.08593)\]
 
 ## CVPR2019
 - [deepSDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf)
