@@ -44,6 +44,11 @@
 - Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks\[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cai_Exploiting_Spatial-Temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_ICCV_2019_paper.pdf) [Code](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)\] 这篇工作其实就是借鉴了st-gcn的思路将时序估计问题转化到了3d pose 估计上
 
 
+# Rendering
+- [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/pdf/2012.02190.pdf)
+
+
+
 # Representation
 
 ## ECCV2020
