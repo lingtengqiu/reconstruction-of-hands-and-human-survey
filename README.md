@@ -7,6 +7,10 @@
 - Detecting Hands and Recognizing Physical Contact in the Wild\[[Paper](https://proceedings.neurips.cc//paper/2020/file/595373f017b659cb7743291e920a8857-Paper.pdf)  [Code](https://github.com/cvlab-stonybrook/ContactHands)\]
 
 ## ECCV2020
+
+- Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose\[[Paper](https://arxiv.org/pdf/2008.09047.pdf) [Code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)\]
+
+
 - Coherent Reconstruction of Multiple Humans from a Single Image\[[Paper](https://arxiv.org/pdf/2006.08586.pdf) [Code](https://github.com/JiangWenPL/multiperson)\]   注意这篇工作的main contribution 我认为是，interpenetration loss，用于解插入问题，另外一个是depth loss，来解决估计的mesh的深度错误
 - InterHand2.6M: A Dataset and Baseline for 3D Interacting Hand Pose Estimation from a Single RGB Image\[[Paper](https://arxiv.org/abs/2008.09309) [Code](https://github.com/facebookresearch/InterHand2.6M)\]
 - I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image\[[Paper](https://arxiv.org/abs/2008.03713) [Code](https://github.com/mks0601/I2L-MeshNet_RELEASE)\] 非常有意思的一篇，用lixel 来优化 3d heatmap中的memory 和complexity 爆炸问题
