@@ -33,6 +33,9 @@
 
 - Cascaded Deep Monocular 3D Human Pose Estimation with EvolutionaryTraining Data \[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.pdf)  [Code](https://github.com/Nicholasli1995/EvoSkeleton)\]
 
+这篇文章提出了一种数据扩充的方法来扩充我们的数据集，并且用CVPR2015的dictionary来inference 扩充的数据集是否okay。前面其用了更好的2d posenet 自然可以取得比较好的效果。 并且还提供了一个3
+00张图片的UDPW 数据集。
+
 
 - HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf)  [Code](https://github.com/bardiadoosti/HOPE)\]
 
