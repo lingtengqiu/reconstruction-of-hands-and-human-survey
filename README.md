@@ -53,6 +53,7 @@
 
 
 ## CVPR 2015
+Although this work was released serveral years ago, the contribution related with prior angle limts still is useful. Therefore this paper is worthy of reading.   
 - [Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Akhter_Pose-Conditioned_Joint_Angle_2015_CVPR_paper.pdf)
 
 
