@@ -77,6 +77,8 @@ Although this work was released serveral years ago, the contribution related wit
 ## ECCV2020
 - Curriculum DeepSDF\[[Paper](https://arxiv.org/abs/2003.08593)\]
 
+- On the continuity of rotation representations in neural networks\[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf)\]
+
 ## CVPR2019
 - [deepSDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf)
 
