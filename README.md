@@ -8,6 +8,8 @@
 
 ## ECCV2020
 
+- Monocular Expressive Body Regression through Body-Driven Attention\[[Paper](https://expose.is.tue.mpg.de/) [Code](https://github.com/vchoutas/expose)\] 
+
 - Pose2Mesh: Graph Convolutional Network for 3D Human Pose and Mesh Recovery from a 2D Human Pose\[[Paper](https://arxiv.org/pdf/2008.09047.pdf) [Code](https://github.com/hongsukchoi/Pose2Mesh_RELEASE)\]
 
 
