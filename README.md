@@ -21,6 +21,10 @@
 
 
 ## CVPR2020
+
+- Cascaded Deep Monocular 3D Human Pose Estimation with EvolutionaryTraining Data \[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.pdf)  [Code](https://github.com/Nicholasli1995/EvoSkeleton)\]
+
+
 - HOPE-Net: A Graph-based Model for Hand-Object Pose Estimation\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doosti_HOPE-Net_A_Graph-Based_Model_for_Hand-Object_Pose_Estimation_CVPR_2020_paper.pdf)  [Code](https://github.com/bardiadoosti/HOPE)\]
 
 - Weakly-Supervised Mesh-Convolutional Hand Reconstruction in the Wild\[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kulon_Weakly-Supervised_Mesh-Convolutional_Hand_Reconstruction_in_the_Wild_CVPR_2020_paper.pdf
