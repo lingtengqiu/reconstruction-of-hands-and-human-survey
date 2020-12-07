@@ -52,6 +52,10 @@
 - Exploiting Spatial-temporal Relationships for 3D Pose Estimation via Graph Convolutional Networks\[[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Cai_Exploiting_Spatial-Temporal_Relationships_for_3D_Pose_Estimation_via_Graph_Convolutional_ICCV_2019_paper.pdf) [Code](https://github.com/vanoracai/Exploiting-Spatial-temporal-Relationships-for-3D-Pose-Estimation-via-Graph-Convolutional-Networks)\] 这篇工作其实就是借鉴了st-gcn的思路将时序估计问题转化到了3d pose 估计上
 
 
+## CVPR 2015
+- [Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Akhter_Pose-Conditioned_Joint_Angle_2015_CVPR_paper.pdf)
+
+
 # Rendering
 
 ## Arixv
