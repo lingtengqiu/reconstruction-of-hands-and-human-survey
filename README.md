@@ -28,6 +28,9 @@
 
 ## CVPR2020
 
+
+- VIBE: Video Inference for Human Body Pose and Shape Estimation  \[[Paper](https://arxiv.org/pdf/1912.05656.pdf)  [Code](https://github.com/mkocabas/VIBE)\]
+
 - Cascaded Deep Monocular 3D Human Pose Estimation with EvolutionaryTraining Data \[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Cascaded_Deep_Monocular_3D_Human_Pose_Estimation_With_Evolutionary_Training_CVPR_2020_paper.pdf)  [Code](https://github.com/Nicholasli1995/EvoSkeleton)\]
 
 
