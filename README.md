@@ -77,7 +77,7 @@ Although this work was released serveral years ago, the contribution related wit
 # Representation
 
 ## ECCV2020
-- Curriculum DeepSDF\[[Paper](https://arxiv.org/abs/2003.08593)\ [Code](https://github.com/Janus-Shiau/6d_rot_tensorflow)]
+- Curriculum DeepSDF\[[Paper](https://arxiv.org/abs/2003.08593) [Code](https://github.com/Janus-Shiau/6d_rot_tensorflow)]
 
 - On the continuity of rotation representations in neural networks\[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhou_On_the_Continuity_of_Rotation_Representations_in_Neural_Networks_CVPR_2019_paper.pdf)\]
 
