@@ -1,4 +1,4 @@
-# About Me
+# About Me  
 这是我博士第一年在手部和人体相关的paper 中的survey 主要是基于现在的视觉顶会展开的分别为CVPR，ICCV和ECCV
 
 # Hand and Human
@@ -65,6 +65,12 @@
 ## CVPR 2015
 Although this work was released serveral years ago, the contribution related with prior angle limts still is useful. Therefore this paper is worthy of reading.   
 - [Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Akhter_Pose-Conditioned_Joint_Angle_2015_CVPR_paper.pdf)
+
+## ICML 2014
+The most of works leaded by MPI followed the paper variational auto-decode to provide a prior about poses. Therefore I think this paper are useful to us.
+
+- [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+
 
 
 # Rendering
