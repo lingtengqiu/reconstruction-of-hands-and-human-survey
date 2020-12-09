@@ -71,7 +71,7 @@ Although this work was released serveral years ago, the contribution related wit
 ## ICML 2014
 The most of works leaded by MPI followed the paper variational auto-decode to provide a prior about poses. Therefore I think this paper is useful to us.
 
-- [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf)
+- [Auto-Encoding Variational Bayes](https://arxiv.org/pdf/1312.6114.pdf）[tutorial for VAE](https://zhuanlan.zhihu.com/p/34998569)
 
 
 
