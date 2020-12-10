@@ -1,6 +1,8 @@
 # About Me  
 这是我博士第一年在手部和人体相关的paper 中的survey 主要是基于现在的视觉顶会展开的分别为CVPR，ICCV和ECCV
 
+This is paper list relating with 3d hand and human reconstruction. Note that these papers are collected mainly from CVPR, ICCV, ECCV and NIPS. 
+
 # Hand and Human
 
 ## NIPS2020 
