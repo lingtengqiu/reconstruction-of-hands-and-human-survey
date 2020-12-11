@@ -57,7 +57,8 @@ This is paper list relating with 3d hand and human reconstruction. Note that the
 
 
 
-
+## CVPR2019
+- [Expressive Body Capture](https://arxiv.org/pdf/1904.05866.pdf)
 
 
 
