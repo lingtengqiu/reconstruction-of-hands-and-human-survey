@@ -9,6 +9,8 @@ This is paper list relating with 3d hand and human reconstruction. Note that the
 - [Fri-hand](https://competitions.codalab.org/competitions/21238)
 
 ## Arxiv
+- [Human Mesh Recovery from Multiple Shots](https://arxiv.org/pdf/2012.09843.pdf)
+- [GRAB:  A  dataset  of  whole-body  humangrasping of object]()
 - [Frankmocap:Fast monocular 3d hand and body motion capture by regres-sion and integration](https://arxiv.org/abs/2008.08324)
 - [Reconstructing Hand-Object Interactions in the Wild](https://arxiv.org/pdf/2012.09856.pdf)
 - [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/pdf/2012.09760.pdf)
