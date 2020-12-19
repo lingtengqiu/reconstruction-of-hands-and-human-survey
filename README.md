@@ -5,7 +5,12 @@ This is paper list relating with 3d hand and human reconstruction. Note that the
 
 # Hand and Human
 
+## LeadBoard
+- [Fri-hand](https://competitions.codalab.org/competitions/21238)
+
 ## Arxiv
+- [Frankmocap:Fast monocular 3d hand and body motion capture by regres-sion and integration](https://arxiv.org/abs/2008.08324)
+- [Reconstructing Hand-Object Interactions in the Wild](https://arxiv.org/pdf/2012.09856.pdf)
 - [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/pdf/2012.09760.pdf)
 - [Unsupervised Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)
 - [EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](cn.arxiv.org/pdf/2012.06475v2) Note that **MPI**
