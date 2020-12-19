@@ -6,6 +6,7 @@ This is paper list relating with 3d hand and human reconstruction. Note that the
 # Hand and Human
 
 ## Arxiv
+- [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/pdf/2012.09760.pdf)
 - [Unsupervised Learning on Monocular Videos for 3D Human Pose Estimation](https://arxiv.org/pdf/2012.01511.pdf)
 - [EventHands: Real-Time Neural 3D Hand Reconstruction from an Event Stream](cn.arxiv.org/pdf/2012.06475v2) Note that **MPI**
 
